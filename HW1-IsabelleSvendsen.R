@@ -12,7 +12,7 @@ prop.table(table(election$Result,election$Type),2) #column percentages this make
 #This allows us to see the rates of approved bonds across the 4 government types in percentages.
 
 
-#2
+#2 this is my favorite number #izzyrocks
 
 #We want to calculate a new variable for the sum of the votes "for" and "against" the bond measure.
 Votes_Total <- election$VotesFor+election$VotesAgainst
