@@ -1,4 +1,4 @@
-
+Izzy Svendsen
 #First we need to import the data into Rstudio 
 election <- read.csv('Homework1_Bonds.csv')
 head(election)
